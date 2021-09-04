@@ -7,13 +7,13 @@
     "username": "yourUsername",
     "password": "yourPassword",
     "lobbyHolder": "ignUsername",
-    "accountType": "mojang"
+    "accountType": "microsoft"
   },
   "discord": {
-    "token": "discordBotToken",
-    "channel": "channelId",
-    "commandRole": "roleId",
-    "ownerId": "ownerId",
+    "token": "NTk1NTExMzExNjYwNjEzNjMy.XRsDIA.Frj_atmQDV4gGtjtUGUVt6-4jdA",
+    "channel": "877745403175518218",
+    "commandRole": "802256915664207874",
+    "ownerId": "503257799946403840",
     "prefix": "!",
     "messageMode": "bot"
   }
